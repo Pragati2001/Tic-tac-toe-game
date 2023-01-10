@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;1,700&display=swap');
+/* html,
+body {
+    height: 100%;
+} */
+
+.homepage {
+    border: 2px solid black;
+    height: 100vh;
+    width: 25%;
+    margin-left: 35%;
+    /* padding: 12%; */
+}
+
+.async {
+    margin-left: 32%;
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+    text-shadow: 4px 4px 4px #aaa;
+}
+
+.heading1,
+.heading2 {
+    font-family: "Sofia", sans-serif;
+    font-size: 48px;
+    text-shadow: 4px 4px 4px #aaa;
+    text-align: center;
+}
+
+.login_btn {
+    background-color: yellow;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 15px 50px;
+    margin-top: 15%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 30%;
+
+}
+
+.register_btn {
+    background-color: rgb(103, 103, 238);
+    /* Green */
+    border: none;
+    color: white;
+    padding: 15px 50px;
+    margin-top: 15%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 30%;
+}

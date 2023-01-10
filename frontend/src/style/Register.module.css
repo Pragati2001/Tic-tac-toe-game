@@ -1,0 +1,26 @@
+.register {
+    width: 400px;
+    height: 100vh;
+    background: #fff;
+    border: 1px solid black;
+    padding: 1rem;
+    align-items: center;
+    margin-left: 35%;
+    position: relative;
+}
+
+.register>form input {
+    border: 2px solid lightgrey;
+    background-color: lightgrey;
+    outline: none;
+    color: #1d2129;
+    margin: 2% 0;
+    width: 90%;
+    padding: 12px;
+    font-size: 16px;
+}
+
+.register button {
+    margin-top: 20%;
+    background-color: rgb(240, 240, 110);
+}

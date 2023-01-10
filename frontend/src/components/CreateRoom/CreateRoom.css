@@ -1,0 +1,43 @@
+.create-room {
+    width: 400px;
+    height: 100vh;
+    background: #fff;
+    border: 1px solid black;
+    padding: 1rem;
+    align-items: center;
+    margin-left: 35%;
+}
+
+.create-room-container {
+
+    margin-top: 8%;
+}
+
+.create-room-container>input {
+    background-color: lightgrey;
+    border: 2px solid lightgrey;
+    outline: none;
+    color: #1d2129;
+    margin: 2% 0;
+    width: 90%;
+    padding: 12px;
+    font-size: 16px;
+
+}
+
+.create-room button {
+    margin-top: 75%;
+    background-color: rgb(240, 240, 110);
+}
+
+.url-input {
+    width: 8rem;
+}
+
+.copy-btn {
+    font-size: 16px;
+}
+
+.copied {
+    background-color: #00ff00;
+}

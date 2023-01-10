@@ -1,0 +1,27 @@
+.home {
+  width: 400px;
+  height: 100vh;
+  background: #fff;
+  border: 1px solid black;
+  padding: 1rem;
+  align-items: center;
+  margin-left: 35%;
+}
+
+.error {
+  position: absolute;
+  top: 295px;
+  font-size: 1rem;
+  color: red;
+}
+
+.paragraph {
+  font-family: "Sofia", sans-serif;
+  font-size: 78px;
+  text-shadow: 4px 4px 4px #aaa;
+  flex-wrap: wrap;
+}
+
+.home button {
+  background-color: rgb(240, 240, 110);
+}
